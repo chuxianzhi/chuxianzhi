@@ -2,7 +2,7 @@
 - 👀 I’m interested in network security.
 - 🌱 I’m currently learning someone knowledge about network security.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Yuo can sent you probrem to my email chuxianziai@gmail.com.
+- 📫 Yuo can sent you probrem to my email ***.
 
 <!---
 chuxianzhi/chuxianzhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
